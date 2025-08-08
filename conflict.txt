@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-충돌파일입니다.
-=======
-충돌 파일입니당.
->>>>>>> bb99dfa7cd1eba9bb3092a883446856125558f7e
-asdfasdfasdfsdfasdfasdfasasdfasdfasdfasdfasddf
+충돌 파일입니다. 김태헌이 작성했습니다.
